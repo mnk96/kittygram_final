@@ -18,7 +18,7 @@ services:
       - db
     volumes:
       - static:/backend_static
-      - media:/app/media
+      - media:/app/media/
   frontend:
     env_file: .env
     image: mnk96/kittygram_frontend
@@ -32,5 +32,5 @@ services:
       - 9000:80
     volumes:
       - static:/static
-      - media:/app/media
+      - media:/app/media/
 
