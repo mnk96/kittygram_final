@@ -2,8 +2,8 @@
 
 ## Описание проекта
 Социальная сеть для обмена фотографиями любимых питомцев. Проект доступен по адресу: https://nataska-kittygram.hopto.org
-____
-![example workflow](https://github.com/mnk96/kittygram_final/actions/workflows/main.yml/badge.svg)
+
+![example workflow](https://github.com/mnk96/kittygram_final/actions/workflows/main.yml/badge.svg?event=push)
 
 ## Стек технологий:
 ____
