@@ -1,7 +1,7 @@
 #  Контейнеры и CI/CD для Kittygram
 
 ## Описание проекта
-Социальная сеть для обмена фотографиями любимых питомцев
+Социальная сеть для обмена фотографиями любимых питомцев. Проект доступен по адресу: https://nataska-kittygram.hopto.org
 ____
 
 ## Стек технологий:
@@ -173,3 +173,5 @@ Dev/kittygram_final$ git add .
 Dev/kittygram_final$ git commit -m 'Add Actions'
 Dev/kittygram_final$ git push 
 ```
+## Автор проекта:
+Мищенко Наталья
